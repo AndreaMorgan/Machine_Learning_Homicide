@@ -1,7 +1,7 @@
 ![ML_Homicide](https://github.com/AndreaMorgan/Machine_Learning_Homicide/blob/master/Images/Title_Slide.png)
 
 This project looks at new data provided by the FBI Crime Data Explorer, updated in the summer of 2019.
-[The first part of the project can be found here.](https://github.com/stace2775/Economic_and_Victim_Data_Analysis)
+[The first part of the project can be found here.](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis)
 
 Source Data:
 [FBI Crime Data Explorer](https://crime-data-explorer.fr.cloud.gov/downloads-and-docs)
